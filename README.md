@@ -5,5 +5,7 @@
 2. Download the mod <a href="https://github.com/zSkillCode/gtb-solver/releases">here</a> and put it into .minecraft/mods/
 3. Join hypixel.net
 4. Start a round of Guess The Build
+  
+!! YOUR HYPIXEL LANGUAGE MUST BE SET TO ENGLISH !!
 
 WARNING: This is technically a cheat and is therefore forbidden on the server. I take no responsibility for possible bans.
