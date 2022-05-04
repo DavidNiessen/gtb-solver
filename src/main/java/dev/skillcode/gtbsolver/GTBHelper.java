@@ -55,9 +55,10 @@ public class GTBHelper {
     }
 
     private static boolean checkWord(final String word, final List<Pair<Integer, Character>> charList) {
+        final String lowerWord = word.toLowerCase(Locale.ROOT);
         int counter = 0;
         for (final Pair<Integer, Character> pair : charList) {
-            if (word.charAt(pair.getLeft()) == pair.getRight()) {
+            if (lowerWord.charAt(pair.getLeft()) == pair.getRight()) {
                 counter++;
             }
         }
