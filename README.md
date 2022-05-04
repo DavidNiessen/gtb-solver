@@ -1,5 +1,3 @@
-# WARNING: STILL IN BETA
-
 ## How to use:
 1. Download Forge for Minecraft 1.8.9
 2. Download the mod here and put it into .minecraft/mods/
