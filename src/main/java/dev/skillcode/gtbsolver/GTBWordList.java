@@ -509,7 +509,7 @@ public class GTBWordList {
             "Donkey",
             "Donut",
             "Door",
-            "Door knob",
+            "Door Knob",
             "Dragon",
             "Dragon Egg",
             "Dragonfly",
