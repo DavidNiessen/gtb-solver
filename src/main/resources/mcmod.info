@@ -1,14 +1,14 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
+  "modid": "gtbsolver",
+  "name": "GTB Solver",
+  "description": "A solver for the Hypixel minigame Guess the Build",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
+  "authorList": ["SkillCode"],
+  "credits": "",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
