@@ -8,4 +8,4 @@
   
 !! YOUR HYPIXEL LANGUAGE MUST BE SET TO ENGLISH !!
 
-WARNING: This is technically a cheat and is therefore forbidden on the server. I take no responsibility for possible bans.
+WARNING: This is technically a cheat and therefore prohibited on the server. I take no responsibility for possible bans.
