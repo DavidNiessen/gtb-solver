@@ -449,6 +449,7 @@ public class GTBWordList {
             "Cycle",
             "Cyclone",
             "Cyclops",
+            "Cyborg",   
             "DJ Booth",
             "DVD",
             "Dab",
